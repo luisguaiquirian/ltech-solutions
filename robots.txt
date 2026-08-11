@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /cdn-cgi/
+Disallow: /*?*fbclid=*
+Disallow: /*?*gclid=*
+
 Sitemap: https://ltech-solutions.pt/sitemap.xml
